@@ -1,0 +1,13 @@
+C:\workspace\MinuteTransaction\src\main\java\com\transaction\clock\CurrentTimeProvider.java
+C:\workspace\MinuteTransaction\src\main\java\com\transaction\model\Statistics.java
+C:\workspace\MinuteTransaction\src\main\java\com\transaction\service\StatsService.java
+C:\workspace\MinuteTransaction\src\main\java\com\transaction\Bootstrap.java
+C:\workspace\MinuteTransaction\src\main\java\com\transaction\clock\TimeProvider.java
+C:\workspace\MinuteTransaction\src\main\java\com\transaction\model\TransactionStats.java
+C:\workspace\MinuteTransaction\src\main\java\com\transaction\validator\Validator.java
+C:\workspace\MinuteTransaction\src\main\java\com\transaction\datastructure\Buffer.java
+C:\workspace\MinuteTransaction\src\main\java\com\transaction\validator\StalenessValidator.java
+C:\workspace\MinuteTransaction\src\main\java\com\transaction\datastructure\CircularBuffer.java
+C:\workspace\MinuteTransaction\src\main\java\com\transaction\model\Transaction.java
+C:\workspace\MinuteTransaction\src\main\java\com\transaction\service\StatisticsService.java
+C:\workspace\MinuteTransaction\src\main\java\com\transaction\controller\TransactionController.java
