@@ -1,6 +1,0 @@
-#org.jbehave.core.embedder.StoryManager
-#Sun Jul 15 22:52:33 IST 2018
-com/transaction/jbehave/all_transaction_story_test.story=0
-threads=1
-total=0
-threadAverage=0
